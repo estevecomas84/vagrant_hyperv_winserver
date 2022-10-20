@@ -1,2 +1,3 @@
 Firts install vagrant.
-And comand vagrant up.
+And vagrant plugin install vagrant-rdp
+Later comand vagrant up.
